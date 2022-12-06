@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ntdas, or Kiet. Call me how you like.
+- I am an Oregon State University 2020 alumnus
 - 👀 I’m interested in Machine Learning, Natural Language Processing, Coding and of course anime :3
-- 🌱 I’m currently learning more about practical NLP implementations 
-- 💞️ I’m looking to collaborate on NLP projects
+- 🌱 I'm currently researching about Aspect Based Sentiment Analysis, Opnion Extraction and more!
 - 📫 Reach me at my email: kietsbui@gmail.com
 
 <!---
