@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ntdas, or Kiet. Call me how you like.
 - I am an Oregon State University 2020 alumnus
-- 👀 I’m interested in Machine Learning, Natural Language Processing, Coding and of course anime :3
-- 🌱 I'm currently researching about Aspect Based Sentiment Analysis, Opnion Extraction and more!
-- 📫 Reach me at my email: kietsbui@gmail.com
+- I've been working as an Machine Learning Engineer focusing in NLP tasks such as Information Extraction, (Large) Language Models, and much more!
+- I am currently part of the NLP Department at Hanoi-based VinBigdata JSC, a subsidary company of Vingroup.
 
 <!---
 ntdas/ntdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
